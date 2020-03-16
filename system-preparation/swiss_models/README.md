@@ -4,7 +4,7 @@ Homology models of the SARS-CoV-2 proteome from the [SWISS-MODEL](https://swissm
 
 ### Monomers and homo-oligomers
 
-| System        | Setup           | Minimised  | Notes     |
+| System        | Setup           | Equilibrated  | Notes     |
 | ------------- |:---------------:|:----------:|:----------|
 | nsp1          | x | x |   |
 | nsp2          | x | x |   |
@@ -34,7 +34,7 @@ Homology models of the SARS-CoV-2 proteome from the [SWISS-MODEL](https://swissm
 
 ### Hetero-oligomers
 
-| System        | Setup           | Minimised  | Notes     |
+| System        | Setup           | Equilibrated  | Notes     |
 | ------------- |:---------------:|:----------:|:----------|
 | nsp7 / nsp8   | x |   |   |
 | nsp10 / nsp14 | x |   |   |
